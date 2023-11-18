@@ -23,4 +23,3 @@ O programa incorpora as seguintes funcionalidades:
 
 3. **Endereçamento sem classes – máscara na notação CIDR:**
    - **Entrada de dados:** Exige um endereço IPv4, recusando entradas inválidas.
-   - 
